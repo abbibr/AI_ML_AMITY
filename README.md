@@ -1,1 +1,1 @@
-# AI_ML_Week1
+# AI_ML_Lab_Problems
